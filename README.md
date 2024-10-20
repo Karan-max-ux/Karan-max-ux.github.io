@@ -13,7 +13,7 @@ Nagpur, Maharashtra, India
 
 ## Projects
 
-### 🛒 Amazon Clone – Home Page Development
+### 🛒 Flipkart Clone – Home Page Development
 **Objective:** Create a functional and visually appealing clone of Amazon’s home page, focusing on replicating key features like product listings, navigation, and user experience.
 
 **Key Features:**
@@ -39,4 +39,5 @@ Nagpur, Maharashtra, India
 - **Team Player:** Thrives in collaborative environments and values diverse perspectives.
 - **Continuous Learner:** Always exploring new technologies and improving my skill set.
 
----
+---![Uploading flipkart.png…]()
+
