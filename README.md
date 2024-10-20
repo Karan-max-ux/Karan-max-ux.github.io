@@ -38,6 +38,7 @@ Nagpur, Maharashtra, India
 - **Problem Solver:** Enjoy tackling challenges and finding creative solutions.
 - **Team Player:** Thrives in collaborative environments and values diverse perspectives.
 - **Continuous Learner:** Always exploring new technologies and improving my skill set.
+![flipkart](https://github.com/user-attachments/assets/5c18d88d-b90f-487f-9f03-d63640bafa6e)
 
----![Uploading flipkart.png…]()
+
 
