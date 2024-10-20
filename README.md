@@ -2,7 +2,7 @@
 **Full Stack Web Developer**  
 Nagpur, Maharashtra, India  
 [ks1842456@gmail.com](mailto:ks1842456@gmail.com)  
-[LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+[LinkedIn](https://www.linkedin.com/in/karan-singh-280726326/)  
 
 ---
 
@@ -14,7 +14,7 @@ Nagpur, Maharashtra, India
 ## Projects
 
 ### 🛒 Flipkart Clone – Home Page Development
-**Objective:** Create a functional and visually appealing clone of Amazon’s home page, focusing on replicating key features like product listings, navigation, and user experience.
+**Objective:** Create a functional and visually appealing clone of flipkart's home page, focusing on replicating key features like product listings, navigation, and user experience.
 
 **Key Features:**
 - **Responsive Design:** Ensured the page works seamlessly on different devices and screen sizes using media queries, flexbox, or CSS grid.
