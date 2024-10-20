@@ -2,7 +2,7 @@
 **Full Stack Web Developer**  
 Nagpur, Maharashtra, India  
 [ks1842456@gmail.com](mailto:ks1842456@gmail.com)  
-[https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit](LinkedIn:https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+[LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 
 ---
 
